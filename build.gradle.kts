@@ -2,6 +2,8 @@ plugins {
     id("java-library")
 }
 
+version = 1.0
+
 repositories {
     mavenCentral()
     maven("https://repo.papermc.io/repository/maven-public/")
