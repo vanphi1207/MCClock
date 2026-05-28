@@ -1,4 +1,4 @@
-![MCClock](https://files.catbox.moe/dwkqew.png)
+![MCClock](https://files.catbox.moe/ut1jmj.png)
 
 ---
 # MCClock

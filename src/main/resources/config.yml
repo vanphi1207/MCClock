@@ -12,7 +12,7 @@ item:
 hands:
   # Thickness of the clock hands
   # Recommended values: 1-2
-  thickness: 1
+  thickness: 3
 
   # smooth: second hand moves continuously between ticks
   # tick: second hand jumps once per second

@@ -61,7 +61,7 @@ public final class MCClock extends JavaPlugin {
 
         BufferedImage scaledFace = loadScaledFace();
         if (scaledFace == null) {
-            getLogger().severe("Failed to reload clock_face.png.");
+            getLogger().severe("Failed to reload clock face.");
             return false;
         }
         clockRenderer = new ClockRenderer(scaledFace, getConfig().getInt("hands.thickness", 1),
