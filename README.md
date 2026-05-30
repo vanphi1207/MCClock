@@ -1,4 +1,4 @@
-![MCClock](https://files.catbox.moe/ut1jmj.png)
+![MCClock](.github/mcclock.png)
 
 ---
 # MCClock
@@ -65,7 +65,6 @@ You can replace `plugins/MCClock/clock_face.png` with a custom 128x128 image to 
 |---|---|
 | `/mcclock get [amount]` | Get 1–64 clock map items |
 | `/mcclock getframe [amount]` | Get invisible item frame(s) — place on any wall like a normal frame |
-| `/mcclock place` | Place an invisible frame + clock map on the block you're looking at in one step |
 | `/mcclock reload` | Reload config and re-attach the renderer |
 
 Alias: `/mcc`  
